@@ -4,7 +4,7 @@ A shell script that "Access GATT services from BLE Device" using
 bluetoothctl commands.
 
 
-### Acceptance Criteria 
+### Script Outcomes
 
 - The script connect to a BLE device and show all its available services
 - This script will read a service from the device.
