@@ -1,4 +1,4 @@
-## @file assingment_2.1/problem2.sh
+##
  #  
  #  @brief Bluetooth 
  #       to show gatt service 
