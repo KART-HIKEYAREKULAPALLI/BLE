@@ -1,4 +1,4 @@
-/** @file assignment_2.2/problem2.c
+/** 
  *  @brief MQTT client
  *  
  *  an MQTT Client that Subscribes to  topic "config/ble"
