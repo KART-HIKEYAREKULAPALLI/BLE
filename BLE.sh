@@ -1,7 +1,7 @@
 ##
  #  
  #  @brief Bluetooth 
- #       to show gatt service 
+ #   
  #  
  #   
  #  @author Rekulapalli Karthikeya
